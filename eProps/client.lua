@@ -331,6 +331,8 @@ function MenuProps()
     end
 end
 
+StatOpenMenu = true
+
 RegisterCommand("props", function()
     if StatOpenMenu then
         MenuProps()
