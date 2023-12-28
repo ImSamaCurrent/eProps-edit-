@@ -10,6 +10,8 @@ Dependency :
 [ox_lib](https://github.com/overextended/ox_lib)
 [object_gizmo](https://github.com/Demigod916/object_gizmo)
 
+-------------------------------------------------------------------------
+Enable/disable menu access
 
 For server
 ```
@@ -24,6 +26,7 @@ For client
 TriggerEvent('eProps:enable', boolean)
 
 ```
+-------------------------------------------------------------------------
 
 [Vidéo présentation (edit)](https://www.youtube.com/watch?v=nOyAVMvOZgY)
 
