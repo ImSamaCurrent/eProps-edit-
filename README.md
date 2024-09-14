@@ -6,7 +6,7 @@
 
 Dependency :
 
-[ESX](https://github.com/esx-framework/esx_core)
+[ESX legacy](https://github.com/esx-framework/esx_core)
 [ox_lib](https://github.com/overextended/ox_lib)
 [object_gizmo](https://github.com/Demigod916/object_gizmo)
 
